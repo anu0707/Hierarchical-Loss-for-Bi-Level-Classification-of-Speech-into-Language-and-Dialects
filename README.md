@@ -4,3 +4,8 @@ There are 3 different methods that have been proposed to solve the problem of di
 - test_CCE is the code for testing the x-vector based model for testing the model trained using CCE loss (second approach).
 - train_hierarchloss is the code for training the x-vector based model using novel Hierarchical loss. (third approach).
 - test_hierarchloss is the code for testing the x-vector based model trained using novel hierarchical loss.
+
+- Updating the codes for other experiments shortly.
+
+- STAY TUNED!
+  
